@@ -1,5 +1,3 @@
-# SE_PRACTICE
-
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         key = arr[i]  # Current element to be inserted into the sorted portion
